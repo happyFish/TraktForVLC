@@ -1,0 +1,24 @@
+2013-08-15 18:24:43,905::TraktForVLC::INFO::Initialized Trakt for VLC.
+2013-08-15 18:24:43,905::TraktForVLC::ERROR::Config file /Volumes/HOMIE/Leo/Projects/Dupl/TraktForVLC/requests/packages/config.ini not found, exiting.
+2013-08-15 18:25:36,006::TraktForVLC::INFO::Initialized Trakt for VLC.
+2013-08-15 18:25:36,007::TraktClient::DEBUG::TraktClient logger initialized
+2013-08-15 18:25:36,008::VLCRemote::DEBUG::cleaning cache
+2013-08-15 18:25:36,008::VLCRemote::DEBUG::<- Recived: VLC media player 2.0.7 Twoflower
+Command Line Inte
+2013-08-15 18:25:36,008::VLCRemote::DEBUG::-> Sending: is_playing
+2013-08-15 18:25:36,008::VLCRemote::DEBUG::<- Recived: rface initialized. Type `help' for help.
+> 1
+2013-08-15 18:25:36,009::VLCRemote::DEBUG::cleaning cache
+2013-08-15 18:25:36,009::VLCRemote::DEBUG::<- Recived: >
+2013-08-15 18:25:36,009::VLCRemote::DEBUG::-> Sending: get_title
+2013-08-15 18:25:36,009::VLCRemote::DEBUG::<- Recived: Aqua.Teen.Hunger.Force.S09E09.HDTV.XviD-AFG.avi
+2013-08-15 18:25:42,701::VLCRemote::DEBUG::cleaning cache
+2013-08-15 18:25:42,701::VLCRemote::DEBUG::<- Recived: >
+2013-08-15 18:25:42,701::VLCRemote::DEBUG::-> Sending: get_length
+2013-08-15 18:25:42,701::VLCRemote::DEBUG::<- Recived: 670
+2013-08-15 18:25:42,702::VLCRemote::DEBUG::cleaning cache
+2013-08-15 18:25:42,702::VLCRemote::DEBUG::<- Recived: >
+2013-08-15 18:25:42,702::VLCRemote::DEBUG::-> Sending: get_time
+2013-08-15 18:25:42,702::VLCRemote::DEBUG::<- Recived: 175
+2013-08-15 18:25:42,702::TraktForVLC::DEBUG::{'episode': '9', 'title': 'Aqua Teen Hunger Force ', 'tv': True, 'season': '9', 'year': 2000, 'duration': 670, 'percentage': 26}
+2013-08-15 18:25:42,702::TraktForVLC::DEBUG::Timer: 0
